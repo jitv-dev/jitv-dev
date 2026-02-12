@@ -47,7 +47,6 @@ I'm a **Junior Fullstack Developer** based in Santiago, Chile, passionate about 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -59,21 +58,14 @@ I'm a **Junior Fullstack Developer** based in Santiago, Chile, passionate about 
 
 ## 🚀 Featured Projects
 
-### 🔐 REST API with JWT Authentication
+### 🔐 REST API with JWT Authentication & Meeting Management
 **Tech Stack:** Node.js • Express • PostgreSQL • JWT
 
 - Complete CRUD application with JWT-protected routes
 - Middleware-based authentication with role-based access control
+- Private route protection and secure session management
 - Normalized database schema optimized for performance
-- [View Project →](#)
-
-### 📅 Meeting Management System
-**Tech Stack:** Node.js • JavaScript • JWT
-
-- Backend application with secure JWT middleware authentication
-- Private route protection and session management
-- Security best practices implementation
-- [View Project →](#)
+- [View Project →](https://jitv-dev.github.io/portafolio/proyectos/proyecto1/)
 
 ### 🎮 Interactive Web Applications
 **Tech Stack:** JavaScript • HTML5 • CSS3
@@ -81,14 +73,14 @@ I'm a **Junior Fullstack Developer** based in Santiago, Chile, passionate about 
 - Single-page applications with dynamic UI updates
 - Event-driven architecture and responsive design
 - Projects include Roulette and Horse Racing games
-- [View Project →](#)
+- [View Project →](https://jitv-dev.github.io/portafolio/proyectos/proyecto2/)
 
 ### 🚗 Parking Management System
 **Tech Stack:** Python
 
 - Vehicle registration and time-based cost calculations
 - Automated reporting with file persistence
-- [View Project →](#)
+- [View Project →](https://jitv-dev.github.io/portafolio/proyectos/proyecto3/)
 
 ## 🎓 Education & Certifications
 
