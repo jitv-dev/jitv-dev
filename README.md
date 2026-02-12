@@ -48,14 +48,6 @@ I'm a **Junior Fullstack Developer** based in Santiago, Chile, passionate about 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jitv-dev&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🚀 Featured Projects
 
 ### 🔐 REST API with JWT Authentication & Meeting Management
