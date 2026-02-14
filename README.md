@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-I'm a **Junior Fullstack Developer** based in Santiago, Chile, passionate about building scalable REST APIs and database-driven applications. Currently expanding my skillset with Java, Spring Framework, and Angular while strengthening my backend expertise with Node.js and PostgreSQL.
+I'm a **Fullstack Developer** based in Santiago, Chile, passionate about building scalable REST APIs and database-driven applications. Currently expanding my skillset with Java and Spring Framework while strengthening my backend expertise with Node.js and PostgreSQL.
 
 - 🔭 I'm currently working on **fullstack projects with Node.js & Express**
-- 🌱 I'm learning **Java, Spring Framework, Angular & TypeScript**
+- 🌱 I'm learning **Java & Spring Framework**
 - 💡 Strong problem-solving abilities with a focus on **clean, maintainable code**
 - 🎯 Goal: Contributing to teams building **modern, customer-centric platforms**
 - 📫 Reach me at: **javier.torresvalenz@gmail.com**
@@ -21,7 +21,7 @@ I'm a **Junior Fullstack Developer** based in Santiago, Chile, passionate about 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-torres-valenz)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jitv-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jitv-dev.github.io/portafolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javier.torresvalenz@gmail.com)
 
 </div>
@@ -37,8 +37,7 @@ I'm a **Junior Fullstack Developer** based in Santiago, Chile, passionate about 
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -84,7 +83,7 @@ I'm a **Junior Fullstack Developer** based in Santiago, Chile, passionate about 
 
 ```javascript
 const javier = {
-    currentlyLearning: ["Java", "Spring Framework", "Angular", "TypeScript", "AWS"],
+    currentlyLearning: ["Java", "Spring Framework", "AWS"],
     recentlyCompleted: ["Fullstack JavaScript Bootcamp", "REST API Development"],
     lookingFor: "Opportunities to contribute to dynamic engineering teams",
     funFact: "Transitioned from Geology to Software Development 🪨 → 💻"
@@ -107,8 +106,6 @@ const javier = {
 ### 📊 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=jitv-dev&color=blue&style=flat-square)
-
-### ⚡ "Clean code always looks like it was written by someone who cares." - Robert C. Martin
 
 </div>
 
